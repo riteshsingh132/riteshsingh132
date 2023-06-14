@@ -1,0 +1,21 @@
+.firstDiv{
+    border: 1px solid blue;
+    width: 30vw;
+    height: 30vh;
+    float: left;
+}
+
+.secondDiv{
+    border: 1px solid purple;
+    width: 30vw;
+    height: 30vh;
+    float:left;
+}
+
+.autoChange{
+    background-color: red;
+}
+.autoChange1{
+    background-color: purple;
+}
+

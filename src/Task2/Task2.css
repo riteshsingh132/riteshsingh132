@@ -1,0 +1,27 @@
+.task2{
+    width: 150px;
+    height: 150px;
+    align-items: center;
+    background-color: blue;
+    text-align: center;
+    padding: 30px 0 0 0;
+    margin: 100px  auto;
+    }
+.btn{
+    /* background-color: red; */
+border: 1px solid red;
+background-color: red;
+border-radius: 5px;
+padding: 4px 7px;
+}
+
+.cond1{
+    color: red;
+
+}
+.cond2{
+    color: yellow;
+}
+.cond3{
+    color: orange;
+}
